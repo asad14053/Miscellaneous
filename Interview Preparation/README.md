@@ -40,21 +40,21 @@
 [a_tf]:  http://mobile.nytimes.com/2014/02/23/opinion/sunday/friedman-how-to-get-a-job-at-google.html
 [a_tf2]: http://mobile.nytimes.com/2014/04/20/opinion/sunday/friedman-how-to-get-a-job-at-google-part-2.html
 
-### Writing the CV
-* Gayle McDowell – **The Google Resume**[[pdf][GMC3]]
+# Writing the CV
+* Gayle McDowell – **The Google Resume** [[pdf][GMC3]]
 
-### Interview Guide
+# Interview Guide
 ## Coding Interview
-# Recommended:
+### Recommended:
 * Adnan Aziz – **Elements of the Programming Interviews** [[pdf][adz]]
-* Gayle McDowell – **Cracking The Coding Interview**[[[4h Ed][GMC1]][[6th][GMC2]]
+* Gayle McDowell – **Cracking The Coding Interview** [[4th][GMC1]],[[6th][GMC2]]
 
-# Honorable mention:
+### Honorable mention:
 * John Mongan – **Programming Interview Exposed**[[pdf][JM]]
 
 ## Behavioral Interview
-* Willium Gant – **Surviving the Whiteboard Interview** [[pdf]][WG]]
-* Peggy McKee – **How To Answer Interview Questions**[[pdf][PM]]
+* Willium Gant – **Surviving the Whiteboard Interview** [[pdf][WG]]
+* Peggy McKee – **How To Answer Interview Questions** [[pdf][PM]]
 
 ## Algorithms Interview
 * Recommended: Steven Skiena – **The Algorithm Design Manual** [[Amazon][b_tadm_amzn]] [[pdf][SS]] [[web][b_tadm_web]]
@@ -79,7 +79,6 @@ Please support the authors by buying the books.
 [GMC1]: https://github.com/asad14053/Miscellaneous/blob/master/Interview%20Preparation/Coding%20Interview-%20Book%20Catalogue/Cracking%20the%20Coding%20Interview%20-%20150%20Programming%20Interview%20Questions%20and%20Solutions-%20by%20Gayle%20McDowell.pdf
 [GMC2]: https://github.com/asad14053/Miscellaneous/blob/master/Interview%20Preparation/Coding%20Interview-%20Book%20Catalogue/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions-by%20Gayle%20McDowell.pdf
 [GMC3]: https://github.com/asad14053/Miscellaneous/blob/master/Interview%20Preparation/Coding%20Interview-%20Book%20Catalogue/The%20google%20resume-by%20Gayle%20McDowell.pdf
-
 [adz]: https://github.com/asad14053/Miscellaneous/blob/master/Interview%20Preparation/Coding%20Interview-%20Book%20Catalogue/Elements%20of%20the%20Programming%20Interviews-%20by%20Adnan%20Aziz.pdf
 [b_clrs_amzn]: http://www.amazon.com/dp/0262033844
 [b_clrs_pdf]: https://www.google.com/search?q=cormen+pdf
